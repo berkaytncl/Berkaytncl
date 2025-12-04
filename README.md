@@ -5,7 +5,7 @@
 #### I am currently working on **Backend Development with Go**
 
 - 🌱 Learning and building **REST APIs, Microservices, and scalable backend systems**  
-- 💻 Currently exploring **Go, Gin, PostgreSQL, Redis, and Docker**  
+- 💻 Currently exploring **Go, Gin, MongoDB, PostgreSQL, Redis, and Docker**  
 - 📫 Reach me: **berkaytncl98@gmail.com**  
 
 #### Languages and Tools:
